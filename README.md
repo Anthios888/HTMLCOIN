@@ -1,5 +1,10 @@
-HTMLCOIN 2.0 Core
+HydraCoin 
 =========
+
+What is HydraCoin?
+-------------
+
+It is a fork of HTMLCoin 2.0.
 
 http://www.htmlcoin.com/
 
